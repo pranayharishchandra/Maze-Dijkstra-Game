@@ -19,7 +19,7 @@ Maze Solver is a ReactJS application that generates a customizable `m x n` size 
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/shubhamshinde6762/maze-solver.git
+   git clone https://github.com/pranayharishchandra/Maze-Dijkstra-Game
    cd maze-solver
    ```
 
