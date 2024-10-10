@@ -242,7 +242,7 @@ const Grid = () => {
       </div>
       <div className="text-4xl flex gap-4  text-white font-bold text-center mt-3">
         <GiMaze className="text-5xl" />
-        Maze Mastermind
+        Maze Dijkstra Game by Pranay
       </div>
       <div className="font-bold text-xl ">
         <ReactTyped
